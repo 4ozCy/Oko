@@ -1,2 +1,3 @@
-discord.py
-os
+discord.py==1.7.3
+better_profanity==0.7.0
+python-dotenv==0.19.2
