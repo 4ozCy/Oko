@@ -56,4 +56,4 @@ async def on_message(message):
 bot_token = os.getenv('TOKEN')
 
 # Run the bot with the token
-bot.run('TOKEN')
+bot.run('bot_token')
